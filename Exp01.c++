@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int NUM_STUDENTS = 3;
+const int NUM_STUDENTS = 6;
 const int NUM_SUBJECTS = 5;
 
 // Function to calculate total marks of a student
